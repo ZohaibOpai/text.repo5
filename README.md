@@ -60,7 +60,9 @@ Small projects like this are building the base for **responsive websites, JavaSc
 
 ## 📸 Project Preview  
 
-*(I will add a screenshot of my project here later)*  
+*(https://1drv.ms/i/c/8284a6b109cb516d/EVsDYnnm4VdDt2CMeDia3FMByyt8pEniudv_2DRFhqCG1A?e=IzHDFC)* 
+*(https://1drv.ms/i/c/8284a6b109cb516d/ERXnFPD41n5PmvUnVAhOz1sBzt_WXDEBnj8IOrpT3KTdNA?e=vpIR4z)* 
+*(https://1drv.ms/i/c/8284a6b109cb516d/EcDyzeW2woxHnh5hcoJJ4bwBeQPxgXTonpsmR3lNuHk9zQ?e=FeQOTS)* 
 
 ---
 
