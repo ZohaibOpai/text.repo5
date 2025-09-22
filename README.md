@@ -53,7 +53,7 @@ Small projects like this are building the base for **responsive websites, JavaSc
 
 ## 🌍 Live Demo  
 
-- 🔗 **GitHub Repo:** [Click Here]()  
+- 🔗 **GitHub Repo:** [Click Here](https://github.com/ZohaibOpai/text.repo5.git)  
 - 🔗 **Netlify Live Link:** [Click Here)(https://adorable-lokum-4c7cac.netlify.app/)  
 
 ---
